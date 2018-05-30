@@ -1,0 +1,17 @@
+Administrationssystem - Anleitung:
+
+1. Kategorien:
+    Auf der Kategorienseite finden sich sämtliche Kategorien, die bereits angelegt wurden.
+    Für jede Kategorie besteht die Möglichkeit, diese zu Bearbeiten oder zu Löschen, wofür 
+    die Buttons in der jewaligen Zeile zu nutzen sind.
+    Zudem kann der Benutzer über den Button 'Anlegen' in der rechten, oberen Ecke des Bildschirms,
+    weitere Kategrien anlegen.
+
+2. Kunden
+    Auf der Kundenseite ist der bestehende Kundenstamm der Agentur gelistet. In der Übersicht finden 
+    sich die ID, der Name, die Rechtsform, die Kategorie, sowie eine beschreibende Unterzeile des Kunden.
+    Jeder Kunde lässt sich ähnlich wie auf der Kategorienseite bearbeiten und löschen. 
+    Beim Bearbeiten des Kunden findet sich neben den vorherigen Attributen auch ein Kurztext, sowie eine kurze 
+    Beschreibung über das Profil des Kunden. Genau wie auf der Kategorienseite lassen sich neue Kunden 
+    über den Button 'Anlegen' hinzufügen. Zu beachten ist sowohl beim Bearbeiten, sowie beim Anlegen 
+    des Kunden, die Check-Box am Ende des Formulars auszuwählen, welche den Status des Kunden anzeigt.

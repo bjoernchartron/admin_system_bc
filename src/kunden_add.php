@@ -44,7 +44,7 @@ $results = $pdo->query('SELECT * FROM category');
                             <option>eG</option>
                         </select>
                     </div>
-                     -->
+                    -->
 
                      <div class="form-group">
                         <label for="unterzeile">Unterzeile</label>
